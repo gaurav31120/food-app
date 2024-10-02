@@ -1,0 +1,5 @@
+Here, I will create restaurant food-app backend in nodeJs. 
+Tech used:
+nodeJs
+mangoDB
+express
